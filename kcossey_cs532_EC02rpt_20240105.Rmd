@@ -3,13 +3,12 @@ title: "CS 532 EC 0.2 - ODU CS Linux"
 author: "Kimberley Cossey"
 date: "2024-01-15"
 output:
-  html_document: default
   pdf_document: 
-    keep_tex: yes
-    mainfont: timesnewroman
-    fontsize: 11pt
     latex_engine: xelatex
+    keep_tex: yes
   word_document: default
+  html_document: default
+mainfont: "Times New Roman"
 ---
 
 ```{r setup, include=FALSE}
