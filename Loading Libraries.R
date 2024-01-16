@@ -1,0 +1,6 @@
+library(rmarkdown)
+library(tidyverse)
+library(apaText)
+library(tinytex)
+tinytex::install_tinytex()
+library(extrafont)
